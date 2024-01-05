@@ -39,8 +39,8 @@ export default function Home() {
         />
       </div>
 
-      <div>
-        <h1>Vercelデプロイ&コード変更</h1>
+      <div className="border-2 border-sky-500 rounded p-4 bg-sky-200">
+        <h1 className="text-gray-800">Vercelデプロイ&コード変更</h1>
       </div>
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
